@@ -1,9 +1,8 @@
 # ИИ-ассистент для компании Пресскиоск
 
 Ссылка на проект - @PressKiosk_bot
-https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f1.jpg
-https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f2.jpg
-https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f3.jpg
+
+
 ## Описание проекта
 
 Проект направлен на создание интеллектуального ассистента для компании **Пресскиоск**, который будет взаимодействовать с клиентами через Telegram. Ассистент способен осмысленно вести диалог, отвечать на вопросы на основе базы знаний компании, записывать клиентов на встречи и автоматически добавлять записи в Google Календарь.

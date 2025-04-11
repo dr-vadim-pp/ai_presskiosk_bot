@@ -2,7 +2,7 @@
 
 Ссылка на проект - @PressKiosk_bot
 
-[Скриншот 1](https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f1.jpg?raw=true)
+![Скриншот 1](https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f1.jpg?raw=true)
 
 ## Описание проекта
 

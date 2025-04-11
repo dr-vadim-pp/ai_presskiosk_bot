@@ -2,7 +2,13 @@
 
 Ссылка на проект - @PressKiosk_bot
 
+## Скриншоты
+Готовый бот в Telegram и его ответы
 ![Скриншот 1](https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f1.jpg?raw=true)
+Запись событий в Google Календаре
+![Скриншот 2](https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f3.jpg?raw=true)
+Настройки в Савви
+![Скриншот 3](https://github.com/dr-vadim-pp/ai_presskiosk_bot/blob/main/f2.jpg?raw=true)
 
 ## Описание проекта
 
